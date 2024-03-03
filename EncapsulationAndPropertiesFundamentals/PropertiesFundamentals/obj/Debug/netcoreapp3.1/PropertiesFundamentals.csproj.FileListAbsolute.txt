@@ -1,0 +1,13 @@
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\bin\Debug\netcoreapp3.1\PropertiesFundamentals.exe
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\bin\Debug\netcoreapp3.1\PropertiesFundamentals.deps.json
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\bin\Debug\netcoreapp3.1\PropertiesFundamentals.runtimeconfig.json
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\bin\Debug\netcoreapp3.1\PropertiesFundamentals.runtimeconfig.dev.json
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\bin\Debug\netcoreapp3.1\PropertiesFundamentals.dll
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\bin\Debug\netcoreapp3.1\PropertiesFundamentals.pdb
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\obj\Debug\netcoreapp3.1\PropertiesFundamentals.csproj.AssemblyReference.cache
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\obj\Debug\netcoreapp3.1\PropertiesFundamentals.AssemblyInfoInputs.cache
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\obj\Debug\netcoreapp3.1\PropertiesFundamentals.AssemblyInfo.cs
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\obj\Debug\netcoreapp3.1\PropertiesFundamentals.csproj.CoreCompileInputs.cache
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\obj\Debug\netcoreapp3.1\PropertiesFundamentals.dll
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\obj\Debug\netcoreapp3.1\PropertiesFundamentals.pdb
+C:\SOLID\PropertiesFundamentals\PropertiesFundamentals\obj\Debug\netcoreapp3.1\PropertiesFundamentals.genruntimeconfig.cache
