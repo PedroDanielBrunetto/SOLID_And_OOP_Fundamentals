@@ -1,0 +1,13 @@
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.exe
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.json
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.dev.json
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\SOLID\EncapsulationAndDomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.genruntimeconfig.cache
