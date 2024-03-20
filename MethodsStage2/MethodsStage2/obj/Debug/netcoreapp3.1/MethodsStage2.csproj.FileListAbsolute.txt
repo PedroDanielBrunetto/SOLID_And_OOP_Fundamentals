@@ -1,0 +1,13 @@
+C:\SOLID\MethodsStage2\MethodsStage2\bin\Debug\netcoreapp3.1\MethodsStage2.exe
+C:\SOLID\MethodsStage2\MethodsStage2\bin\Debug\netcoreapp3.1\MethodsStage2.deps.json
+C:\SOLID\MethodsStage2\MethodsStage2\bin\Debug\netcoreapp3.1\MethodsStage2.runtimeconfig.json
+C:\SOLID\MethodsStage2\MethodsStage2\bin\Debug\netcoreapp3.1\MethodsStage2.runtimeconfig.dev.json
+C:\SOLID\MethodsStage2\MethodsStage2\bin\Debug\netcoreapp3.1\MethodsStage2.dll
+C:\SOLID\MethodsStage2\MethodsStage2\bin\Debug\netcoreapp3.1\MethodsStage2.pdb
+C:\SOLID\MethodsStage2\MethodsStage2\obj\Debug\netcoreapp3.1\MethodsStage2.csproj.AssemblyReference.cache
+C:\SOLID\MethodsStage2\MethodsStage2\obj\Debug\netcoreapp3.1\MethodsStage2.AssemblyInfoInputs.cache
+C:\SOLID\MethodsStage2\MethodsStage2\obj\Debug\netcoreapp3.1\MethodsStage2.AssemblyInfo.cs
+C:\SOLID\MethodsStage2\MethodsStage2\obj\Debug\netcoreapp3.1\MethodsStage2.csproj.CoreCompileInputs.cache
+C:\SOLID\MethodsStage2\MethodsStage2\obj\Debug\netcoreapp3.1\MethodsStage2.dll
+C:\SOLID\MethodsStage2\MethodsStage2\obj\Debug\netcoreapp3.1\MethodsStage2.pdb
+C:\SOLID\MethodsStage2\MethodsStage2\obj\Debug\netcoreapp3.1\MethodsStage2.genruntimeconfig.cache
