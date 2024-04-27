@@ -1,0 +1,13 @@
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\bin\Debug\netcoreapp3.1\UpCastingDownCast.exe
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\bin\Debug\netcoreapp3.1\UpCastingDownCast.deps.json
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\bin\Debug\netcoreapp3.1\UpCastingDownCast.runtimeconfig.json
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\bin\Debug\netcoreapp3.1\UpCastingDownCast.runtimeconfig.dev.json
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\bin\Debug\netcoreapp3.1\UpCastingDownCast.dll
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\bin\Debug\netcoreapp3.1\UpCastingDownCast.pdb
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\obj\Debug\netcoreapp3.1\UpCastingDownCast.csproj.AssemblyReference.cache
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\obj\Debug\netcoreapp3.1\UpCastingDownCast.AssemblyInfoInputs.cache
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\obj\Debug\netcoreapp3.1\UpCastingDownCast.AssemblyInfo.cs
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\obj\Debug\netcoreapp3.1\UpCastingDownCast.csproj.CoreCompileInputs.cache
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\obj\Debug\netcoreapp3.1\UpCastingDownCast.dll
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\obj\Debug\netcoreapp3.1\UpCastingDownCast.pdb
+C:\All-Projects\SOLID\Inheritance\UpCastingDownCast\obj\Debug\netcoreapp3.1\UpCastingDownCast.genruntimeconfig.cache
